@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey there, I'm Raushan Bhai Patel
 
-<!--
-**Rbp2026git/Rbp2026git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | Learning React & DevOps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 Student
+- 💻 Learning Web Development (HTML, CSS, JS, React)
+- 🔥 Interested in DevOps & AI
+- 📈 Always improving skills
+
+---
+
+## 🛠️ Languages & Tools
+- HTML
+- CSS
+- JavaScript
+- React
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+![Patel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect with me
+- LinkedIn: (add link)
+- Portfolio: (add link)
+- Portfolio: (add link)## Hi there 👋
+
