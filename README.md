@@ -22,7 +22,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Patel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Patel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raushan BhaiPatel&show_icons=true&theme=radical)
 
 ---
 
